@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hey, I'm Petrarka
 
-<!--
-**PetrarkaR/PetrarkaR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ I am specializing in FPGA design, embedded systems, and applying neural networks where they make a real difference. I like precision, depth, and taking on projects that others might pass on.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I Work With
+
+- **Languages**: Python, C/C++, Verilog, VHDL
+- **Hardware**: FPGAs, microcontrollers
+- **Tools**: MATLAB, LTspice
+
+---
+
+## Current Focus 
+
+- **Neural Networks**: Working on efficient CNNs for embedded platforms.
+- **FPGA Projects**: Digging into signal processing, ML, and optimizing real-time performance.
+- **Compilers**: Learning compiler theory to build something from the ground up.
+
+---
+
+## GitHub Goals 📈
+
+Here to document projects and connect with others in **embedded systems**, **ML**, and **FPGA design**. If you’re tackling complex builds, feel free to reach out—I’m always up for collaboration.
+
+---
+
+## Connect
+
+- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/petar-ristic-894890296/)]
+- **Portfolio**: [[Your Portfolio URL](https://petrarkar.github.io)]
