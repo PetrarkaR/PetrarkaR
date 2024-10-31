@@ -28,5 +28,5 @@ Here to document projects and connect with others in **embedded systems**, **ML*
 
 ## Connect
 
-- **LinkedIn**: [[Your LinkedIn URL](https://www.linkedin.com/in/petar-ristic-894890296/)]
-- **Portfolio**: [[Your Portfolio URL](https://petrarkar.github.io)]
+- **LinkedIn**: [[Find me on linkedin](https://www.linkedin.com/in/petar-ristic-894890296/)]
+- **Portfolio**: [[Or look at my blog](https://petrarkar.github.io)]
