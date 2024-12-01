@@ -2,6 +2,13 @@
 
  I am specializing in FPGA design, embedded systems, and applying neural networks where they make a real difference. I like precision, depth, and taking on projects that others might pass on.
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PetrarkaR&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PetrarkaR&layout=compact&theme=dark)
+![Profile Views](https://komarev.com/ghpvc/?username=PetrarkaR&color=green)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=PetrarkaR&theme=dark)
+
+
+
 ---
 
 ## What I Work With
