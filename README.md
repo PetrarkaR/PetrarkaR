@@ -26,12 +26,6 @@
 
 ---
 
-## GitHub Goals 📈
-
-Here to document projects and connect with others in **embedded systems**, **ML**, and **FPGA design**. If you’re tackling complex builds, feel free to reach out—I’m always up for collaboration.
-
----
-
 ## Connect
 
 - **LinkedIn**: [[Find me on linkedin](https://www.linkedin.com/in/petar-ristic-894890296/)]
